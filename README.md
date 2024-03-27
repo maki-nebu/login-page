@@ -133,8 +133,3 @@ If you found this project helpful or you learned something from it, please consi
 This project is licensed under the License Name License - see the LICENSE file for details.
 
 
-### Setup
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username/your_project_name.git
