@@ -122,8 +122,8 @@ Contributions are what make the open-source community such an amazing place to l
 If you found this project helpful or you learned something from it, please consider giving it a star.
 
 ## 🙏 Acknowledgements
-- Acknowledgement 1
-- Acknowledgement 2
+-  our teacher
+- our group members
 
 ## ❓ FAQ (OPTIONAL)
 - **Question 1:** How do I do this?
