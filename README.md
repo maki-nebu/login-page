@@ -92,6 +92,46 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 - Web browser
+  ## Usage
+Simply enter your username and password in the provided fields and click the "Login" button.
+
+## Run tests
+There are currently no tests for this project.
+
+## Deployment
+To deploy this project, simply host it on any web server.
+
+## 👥 Authors
+- makda nebyu
+- aman
+- kal
+## 🔭 Future Features
+- Implement backend functionality for user authentication
+- Add more customization options for the login page
+
+## 🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## ⭐️ Show your support
+If you found this project helpful or you learned something from it, please consider giving it a star.
+
+## 🙏 Acknowledgements
+- Acknowledgement 1
+- Acknowledgement 2
+
+## ❓ FAQ (OPTIONAL)
+- **Question 1:** How do I do this?
+  - *Answer:* You can do it by following these steps...
+
+## 📝 License
+This project is licensed under the License Name License - see the LICENSE file for details.
+
 
 ### Setup
 
